@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_margin="8dp"
+            android:src="@drawable/riyadh" />
+
+        <TextView
+            android:id="@+id/about_riyadh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="@string/aboutriyadh"
+            android:textColor="@color/font"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <TextView
+                android:id="@+id/hotels_textview"
+                style="@style/category_text"
+                android:background="@color/hotels"
+                android:text="@string/hotels" />
+
+            <TextView
+                android:id="@+id/restaurants_textview"
+                style="@style/category_text"
+                android:background="@color/restaurants"
+                android:text="@string/restaurants" />
+
+            <TextView
+                android:id="@+id/malls_textview"
+                style="@style/category_text"
+                android:background="@color/malls"
+                android:text="@string/malls" />
+
+            <TextView
+                android:id="@+id/place_to_visit_textview"
+                style="@style/category_text"
+                android:background="@color/placetovisit"
+                android:text="@string/place_to_visit" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6875d0</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg">#bffbe9e7</color>
+    <color name="background">#f5f6fc</color>
+    <color name="hotels">#a982c7</color>
+    <color name="malls">#88dd9a</color>
+    <color name="placetovisit">#ff9d9d</color>
+    <color name="restaurants">#b2d1fb</color>
+    <color name="font">#574a7f</color>
+    <color name="categoryFont">#eaeaed</color>
+</resources>

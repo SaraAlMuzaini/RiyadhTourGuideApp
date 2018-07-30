@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Riyadh Tour Guide App</string>
+    <string name="riyadh">Riyadh City</string>
+    <string name="hotels">Hotels</string>
+    <string name="malls">Malls</string>
+    <string name="place_to_visit">Place to visit</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="aboutriyadh">Riyadh is a sprawling city of 6.5 million, the capital of Saudi Arabia, and a major financial and administrative center of the nation. You\'ll find it a busy and very modern place, with much to offer the curious traveler.</string>
+    <!-- Hotels list -->
+    <string name="faisaliahHot">Al Faisaliah Hotel</string>
+    <string name="interContinentalHot">InterContinental Riyadh</string>
+    <string name="saharaAirportHot">Sahara Airport Hotel</string>
+    <string name="olayaHot">Olaya Holiday Inn</string>
+    <string name="faisaliahHot_add">Address: King Fahd street | AL Olaya District King Fahad Road, Riyadh, Saudi Arabia</string>
+    <string name="interContinentalHot_add">Address: Al Ma\'zar street | Al-Mo\'tamarat District, Riyadh, Saudi Arabia</string>
+    <string name="saharaAirportHot_add">Address: King Khaled Airport street | King Khaled Airport District, Riyadh, Saudi Arabia</string>
+    <string name="olayaHot_add">Address: Al Olayya street | Al Olayya District, Riyadh, Saudi Arabia</string>
+    <!-- Malls list -->
+    <string name="nakheelMal">Al Nakheel Mall‬</string>
+    <string name="granadaMal">Granada Center Mall</string>
+    <string name="riyadhMal">Riyadh Gallery Mall</string>
+    <string name="panoramaMal">Panorama Mall</string>
+    <string name="nakheelMal_add">Address: Al Imam Saud Ibn Abdul Aziz Branch Road | Al Mughrizat, Riyadh, Saudi Arabia</string>
+    <string name="granadaMal_add">Address: East Ring Road, Exit 9, Riyadh, Saudi Arabia</string>
+    <string name="riyadhMal_add">Address: King Fahd Road | Riyadh, Saudi Arabia</string>
+    <string name="panoramaMal_add">Address: Takhassusi | Al Ma\'thar Ash Shamali, Riyadh, Saudi Arabia</string>
+    <string name="workHourMall">Opening Hours: Saturday to Thursday 9:00am to 11:30pm ,then 4:00 pm to 11:00 pm, Friday 4:00pm to 11:30pm</string>
+    <!-- Restaurants list -->
+    <string name="NajdRes">Al-Najdiyah Village Restaurant</string>
+    <string name="MajlisRes">Al Majlis Al Khaleeji Restaurant</string>
+    <string name="ShurfaRes">Al Shurfa Restaurant</string>
+    <string name="fairouzRes">Fairouz Garden</string>
+    <string name="NajdRes_add">Address: Al-Najdiyah Village Restaurant</string>
+    <string name="MajlisRes_add">Address: Al Majlis Al Khaleeji Restaurant</string>
+    <string name="ShurfaRes_add">Address: Al Shurfa Restaurant</string>
+    <string name="fairouzRes_add">Address: Fairouz Garden</string>
+    <string name="workHourRes">Opening Hours: Saturday to Friday 12:00 pm to 1:00 am</string>
+    <string name="workHourResam">Opening Hours: Saturday to Thursday 7:00am to 11:30am ,then 12:00 pm to 1:00am, Friday 7:00am to 11:00am, then 1:00pm to 1:00am</string>
+    <!-- ListItem to visit list -->
+    <string name="kingdomCentreTower">Kingdom Centre Tower</string>
+    <string name="nationalMuseum">National Museum of Riyadh</string>
+    <string name="masmakFort">Al Masmak Fort</string>
+    <string name="riyadhZoo">Riyadh Zoo</string>
+    <string name="kingdomCentreTower_add">Address: King Fahd street | AL Olaya District King Fahad Road, Riyadh, Saudi Arabia</string>
+    <string name="nationalMuseum_add">Address: National Museum of Riyadh</string>
+    <string name="masmakFort_add">Address: Al Masmak Fort</string>
+    <string name="riyadhZoo_add">Address: The park is located in the Malaz area, east of Al-Ahsa Street and North Street Musab bin Amir.</string>
+    <string name="kingdomCentreTower_WH">Opening Hours: Saturday to Thursday 10:30am to 11:30pm, Friday 4:00pm to 11:30pm</string>
+    <string name="nationalMuseum_WH">Opening Hours: Sunday, Tuesday and Thursday \ 8am till Noon. Women/Families: Monday AND Wednesday 8am-Noon. Open to all: Sunday\Noon till 2pm, Monday to Thursday Noon till 2pm AND 4 to 8pm, Friday 9am to 1pm AND 4 to 8pm, Saturday 4 to 8pm.</string>
+    <string name="masmakFort_WH">Opening Hours: Men: Sunday, Tuesday AND Thursday Saturday\ 8am to 2:30pm AND 4pm to 9pm, Saturday till  9am noon. Women/Families: Monday AND Wednesday \ 8am to 2:3</string>
+    <string name="riyadhZoo_WH">Opening Hours: Sunday,Closed for Maintenance, Monday to Thursday: Morning(8:30 am to 12:00 pm) for school, Evening for all (1:00 pm till Maghrib Prayers,) </string>
+</resources>
